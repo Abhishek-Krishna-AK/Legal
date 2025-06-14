@@ -1,8 +1,4 @@
 
-✅ Streamlit Legal Consultant Chatbot Code
-python
-Copy
-Edit
 import streamlit as st
 import openai
 
